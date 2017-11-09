@@ -1,0 +1,2 @@
+# squareCameraOnly
+My squareCameraOnly
