@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SquareCamera
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SquareCamera-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1745)
 ## Description
@@ -64,3 +65,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 ## Video Demo
 Link: https://youtu.be/cSGFiP-gZYU
+=======
+# squareCameraOnly
+My squareCameraOnly
+>>>>>>> 50763c8538ea0ea48526a563db5f83f775b8fd6c
